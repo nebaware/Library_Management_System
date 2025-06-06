@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // Authors
+        // Authors // author
         Author author = new Author("Legend-Life", "This is a legend life that yoy can learn fro it");
 
         // Books
