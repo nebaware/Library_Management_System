@@ -9,7 +9,7 @@ public class Author {
         this.biography = biography;
         this.position =position;
     }
-
+// sstring name
     public String getName() {
         return name;
     }
