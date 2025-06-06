@@ -63,7 +63,7 @@ This project is a Java-based Library Management System generated from a UML mode
 
 - Nebaware (GitHub: [@nebaware](https://github.com/nebaware))
 - mahlet(github: [@mahiliya](https://github.com/mahiliya))
-- muluken(github: [@mMuler8905](https://github.com/Muler8905))
+- muluken(github: [@Muler8905](https://github.com/Muler8905))
 - habtamu(github: [@habtish727](https://github.com/habtsh727)).
 
 
