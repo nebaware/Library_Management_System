@@ -10,7 +10,7 @@ This project was developed by a group of students as part of the Software Engine
    - Implemented functionality in `Loan.java`  
    - Managed branches and merged pull requests  
 
-2. **[Teammate Name 2]**  
+2. **Muler8905**  
    - Pulled the repository  
    - Created a feature branch (e.g., `feature-return-validation`)  
    - Added input validation logic or improved class structure  
