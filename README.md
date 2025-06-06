@@ -58,6 +58,3 @@ This project is a Java-based Library Management System generated from a UML mode
 
 ---
 
-## 📅 Submission
-
-- **Presentation Date**: 29/08/2017 E.C.
