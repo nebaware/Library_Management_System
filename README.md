@@ -1,3 +1,10 @@
+memners of the Group
+1. Nebiyu Tsegaye............1501532
+2. Muluken Ugamo ............1501491
+3. Mahlet Fekdeweld..........1501381
+4. Habtamu Inka..............1501198
+   
+
 # Library Management System
 
 This project is a Java-based Library Management System generated from a UML model created using ArgoUML.
@@ -55,6 +62,9 @@ This project is a Java-based Library Management System generated from a UML mode
 ## ✅ Contributors
 
 - Nebaware (GitHub: [@nebaware](https://github.com/nebaware))
+- mahlet(github: [@mahiliya](https://github.com/mahiliya))
+- m
+
 
 ---
 
